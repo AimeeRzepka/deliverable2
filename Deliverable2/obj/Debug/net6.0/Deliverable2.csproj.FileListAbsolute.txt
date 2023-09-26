@@ -1,0 +1,4 @@
+C:\Users\rzepk\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzepk\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.AssemblyInfoInputs.cache
+C:\Users\rzepk\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.AssemblyInfo.cs
+C:\Users\rzepk\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.csproj.CoreCompileInputs.cache
